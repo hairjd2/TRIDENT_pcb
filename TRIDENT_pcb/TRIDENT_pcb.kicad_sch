@@ -2,9 +2,55 @@
 	(version 20260306)
 	(generator "eeschema")
 	(generator_version "10.0")
-	(uuid a095273e-4f22-47bd-922c-53c33fe83700)
+	(uuid "a095273e-4f22-47bd-922c-53c33fe83700")
 	(paper "A4")
 	(lib_symbols)
+	(sheet
+		(at 48.26 30.48)
+		(size 96.52 109.22)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "cb63f159-04bd-4ebb-8198-d5db62c0ad13")
+		(property "Sheetname" "FPGA"
+			(at 48.26 29.7684 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "fpga.kicad_sch"
+			(at 48.26 140.2846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TRIDENT_pcb"
+				(path "/a095273e-4f22-47bd-922c-53c33fe83700"
+					(page "2")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")

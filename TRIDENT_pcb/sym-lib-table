@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "TRIDENT_SYMBOLS") (type "KiCad") (uri "${KIPRJMOD}/TRIDENT_SYMBOLS/2026-08-16_04-06-36.kicad_sym") (options "") (descr ""))
+)

@@ -1,0 +1,192 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "6d93d2c9-6b9b-4917-8e1e-d8a26cc54ec1")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 31.75 85.09)
+		(size 66.04 57.15)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "4adb2856-f07a-4735-8534-4fb907b461ac")
+		(property "Sheetname" "Unit C"
+			(at 31.75 84.3784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "unit_c.kicad_sch"
+			(at 31.75 142.8246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TRIDENT_pcb"
+				(path "/a095273e-4f22-47bd-922c-53c33fe83700/cb63f159-04bd-4ebb-8198-d5db62c0ad13"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 162.56 31.75)
+		(size 91.44 52.07)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "84214b2d-10bb-4501-b89c-c43dcfec881e")
+		(property "Sheetname" "Unit B"
+			(at 162.56 31.0384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "unit_b.kicad_sch"
+			(at 162.56 84.4046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TRIDENT_pcb"
+				(path "/a095273e-4f22-47bd-922c-53c33fe83700/cb63f159-04bd-4ebb-8198-d5db62c0ad13"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 137.16 110.49)
+		(size 105.41 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "b88c13dc-91a7-43ff-b48a-6e3bd8c07099")
+		(property "Sheetname" "Unit D"
+			(at 137.16 109.7784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "unit_d.kicad_sch"
+			(at 137.16 151.7146 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TRIDENT_pcb"
+				(path "/a095273e-4f22-47bd-922c-53c33fe83700/cb63f159-04bd-4ebb-8198-d5db62c0ad13"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 38.1 30.48)
+		(size 73.66 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "eb07fbcc-5676-4842-a30b-175bfdbc2f9e")
+		(property "Sheetname" "Unit A"
+			(at 38.1 29.7684 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "unit_a.kicad_sch"
+			(at 38.1 61.5446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TRIDENT_pcb"
+				(path "/a095273e-4f22-47bd-922c-53c33fe83700/cb63f159-04bd-4ebb-8198-d5db62c0ad13"
+					(page "3")
+				)
+			)
+		)
+	)
+)
